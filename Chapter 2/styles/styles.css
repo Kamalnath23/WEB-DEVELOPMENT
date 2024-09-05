@@ -1,0 +1,53 @@
+body {
+  text-align: center;
+  background-color: rgb(233, 215, 207);
+  margin: 50px;
+}
+
+#main-section{
+  width: 1000px;
+  margin: 200px auto 72px auto;
+  background-color: rgb(238, 106, 88);
+  padding: 24px;
+  border: 5px solid rgb(44, 44, 44);
+  border-radius: 8px;
+  box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.69);
+}
+h1 {
+  font-family: "Oswald", sans-serif;
+  color: red;
+}
+
+p {
+  font-family: "Fira Sans", sans-serif;
+  color: hwb(0 29% 67%);
+}
+
+a {
+  color: rgb(167, 1, 78);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+#id-selector {
+  /*id is unique */
+  color: rgb(188, 68, 37);
+  font-weight: bold;
+  font-size: 52px;
+}
+
+img {
+  width: 320px;
+  height: 480px;
+  border-radius: 240px;
+  border: 5px solid rgb(44, 44, 44);
+  margin-top: -200px;
+}
+
+span{
+  color: rgb(11, 25, 229);
+}
+

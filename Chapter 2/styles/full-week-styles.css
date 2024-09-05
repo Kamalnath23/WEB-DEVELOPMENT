@@ -1,0 +1,102 @@
+body {
+  font-size: 60px;
+}
+
+header{
+    margin-bottom: 64px;
+}
+
+h1{
+    font-family: 'Moderustic', sans-serif;
+    color: red;
+    margin: 10px;
+}
+
+p{
+    font-family: 'Qwitcher Grypen', sans-serif;
+    color: rgb(25, 45, 225);
+    font-size: 52px;
+}
+
+
+div{
+    text-align: left;
+    font-family: 'Qwitcher Grypen', sans-serif;
+    color: rgb(53, 212, 8);
+    font-size: 48px;
+}
+
+ol{
+    list-style: none;
+    color: rgb(197, 194, 17);
+    width: 500px;
+    margin: 32 px auto 0 auto;
+}
+
+li{
+    padding: 16px;
+    text-align: center;
+    list-style: none;
+    color: rgb(251, 110, 17);
+    background-color: rgb(245, 196, 190);
+    border-radius: 6px;
+    margin: 32px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.45);
+}
+
+ul{
+    list-style: square;
+    list-style: none;
+    color: rgb(197, 194, 17);
+    width: 860px;
+    margin: 32 px auto 0 auto;
+}
+
+a{
+    background-color: rgb(167, 1, 78);
+    color: wheat;
+    border: 8px solid rgb(167, 1, 78);
+    border-radius: 4px;
+    padding: 12px 48px;
+    display: inline;
+}
+
+a:hover{
+    background-color: rgb(180, 12, 90);
+}
+
+span{
+    text-align: center;
+    padding: 2px 5px 2px 5px;
+    border: 2px dashed black;
+    margin: 8px 6px;
+}
+
+/* #description{
+    margin-bottom: 30px;
+} */
+
+header p{
+    margin-top: 8PX;
+     margin-bottom: 20px;
+     padding: 5px;
+}
+
+h2{
+    color: rgb(78, 13, 5);
+    font-family: 'Oswald', sans-serif;
+}
+
+main p{
+    margin: 12px;
+    color: rgb(71, 29, 22);
+}
+
+/* .daily-goal{
+     margin: 12px;
+    color: rgb(71, 29, 22);
+} */
+
+.highlight-goal{
+    background-color: rgb(221, 116, 102);
+}
